@@ -1,2 +1,2 @@
-# Replace-Unicode-Characters-in-C
-A simple C program to replace unicode characters in a string
+# Replace Unicode Characters in C
+A simple C program to replace non printable unicode characters in a string
